@@ -1,0 +1,47 @@
+
+
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f4f4f9; 
+  font-family: 'Arial', sans-serif;
+  padding: 2rem;
+}
+
+.intro {
+  text-align: center;
+  background-color: #ffffff; 
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+  max-width: 600px;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #007BFF; 
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #6c757d; 
+  margin-bottom: 1.5rem;
+}
+
+.profile-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1.5rem;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #333;
+  line-height: 1.6;
+}
