@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ws101-bernal-navbar/static/css/main.dadf2f14.css",
+    "main.js": "/ws101-bernal-navbar/static/js/main.58267faa.js",
+    "static/js/453.6e5bd857.chunk.js": "/ws101-bernal-navbar/static/js/453.6e5bd857.chunk.js",
+    "static/media/ramon.jpg": "/ws101-bernal-navbar/static/media/ramon.a2ccce9c1103be705b7a.jpg",
+    "static/media/ramons.jpg": "/ws101-bernal-navbar/static/media/ramons.a2ccce9c1103be705b7a.jpg",
+    "index.html": "/ws101-bernal-navbar/index.html",
+    "main.dadf2f14.css.map": "/ws101-bernal-navbar/static/css/main.dadf2f14.css.map",
+    "main.58267faa.js.map": "/ws101-bernal-navbar/static/js/main.58267faa.js.map",
+    "453.6e5bd857.chunk.js.map": "/ws101-bernal-navbar/static/js/453.6e5bd857.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dadf2f14.css",
+    "static/js/main.58267faa.js"
+  ]
+}
